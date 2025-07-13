@@ -11,7 +11,7 @@ sgdisk -Z "$DISK"
 sgdisk -n 1:0:+512M -t 1:ef00 -c 1:EFI "$DISK"
 sgdisk -n 2:0:0     -t 2:8300 -c 2:ROOT "$DISK"
 
-echo "[*] Formatting partitions"
+echo "[*] Formatting partitions."
 mkfs.fat -F32 ${DISK}1
 mkfs.ext4 ${DISK}2
 
