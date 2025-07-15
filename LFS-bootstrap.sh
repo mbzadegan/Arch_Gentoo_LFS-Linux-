@@ -6,7 +6,7 @@ export LFS=/mnt/lfs
 export LFS_TGT=$(uname -m)-lfs-linux-gnu
 export MAKEFLAGS="-j$(nproc)"
 
-# Prepare directories
+# Prepare directories.
 mkdir -pv $LFS/{sources,tools}
 chmod -v a+wt $LFS/sources
 ln -sv $LFS/tools /
