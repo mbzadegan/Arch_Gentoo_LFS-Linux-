@@ -1,4 +1,4 @@
-# Summary of Linux From Scratch (LFS) Steps
+# Summary of Linux From Scratch (LFS) Steps.
 
 ## 1. **Prepare the Host System**
    - Ensure the host system meets the requirements.
