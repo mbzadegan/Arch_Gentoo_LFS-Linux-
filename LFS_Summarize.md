@@ -3,7 +3,7 @@
 ## 1. **Prepare the Host System**
    - Ensure the host system meets the requirements.
    - Install essential packages like GCC, Bash, and others.
-   - Create a non-root user for building LFS.
+   - Create a non-root user for building the LFS system.
    - Partition the disk and format the partitions.
    - Mount the LFS partition and set up the required directory structure.
 
