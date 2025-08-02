@@ -31,7 +31,7 @@
      - Compile and install the Linux kernel.
 
 ## 5. **Install Basic System Software**
-   - Install system management tools (e.g., Sysvinit, Udev, etc.).
+   - Install system management tools (e.g., Sysvinit, Udev, .etc.).
    - Configure the system:
      - Set up `/etc/fstab`.
      - Create essential files like `/etc/passwd` and `/etc/group`.
