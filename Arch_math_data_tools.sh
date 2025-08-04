@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Arch Linux: Mathematics & Data Analysis Toolkit Installer.
+# Arch Linux: Mathematics & Data Analysis Toolkit Installer
 
 set -e
 
