@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# --- CONFIGURATION ----
+# --- CONFIGURATION ---
 DISK="/dev/sda"
 HOSTNAME="arch"
 ROOT_PASSWORD="changeme"
