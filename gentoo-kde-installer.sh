@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# --- CONFIG ----
+# --- CONFIG ---
 DISK="/dev/sda"
 HOSTNAME="gentoo"
 LOCALE="en_US.UTF-8"
