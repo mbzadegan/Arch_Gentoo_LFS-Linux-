@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# LFS base configuration
+# LFS base configuration.
 export LFS=/mnt/lfs
 export LFS_TGT=$(uname -m)-lfs-linux-gnu
 export MAKEFLAGS="-j$(nproc)"
