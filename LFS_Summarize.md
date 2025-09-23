@@ -54,4 +54,4 @@
 - Clean up intermediate files to save space and prevent contamination.
 - Backup your progress regularly.
 
-For detailed instructions, refer to the official [Linux From Scratch](https://www.linuxfromscratch.org/) documentation.
+For detailed instructions, refer to the official [Linux From Scratch] (https://www.linuxfromscratch.org/) documentation.
